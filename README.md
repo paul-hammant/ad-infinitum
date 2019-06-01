@@ -11,7 +11,7 @@ https://pgl.yoyo.org/as/serverlist.php - and more (not sub-domains of devd.io). 
 
 Browser makers could quite easily add new settings to allow end-users more control. The setting could be "Limit to 'N' the
 recursion depth of thirty-party JavaScript: [N]". Or perhaps "Allow third-party JavaScript: [yes/no]". Perhaps a straightforward 
-way of describing the "feature" is "referal distance limiting". 
+way of describing the "feature" is **referal distance limiting**. 
 
 I myself would allow ads in a page, if they came from the 
 content maker themselves. Meaning all ad content was proxied through the content page (the second party). This would allow me
